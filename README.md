@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://www.google.com/imgres?q=adobe%20xd&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc2%2FAdobe_XD_CC_icon.svg%2F1200px-Adobe_XD_CC_icon.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAdobe_XD&docid=1ZkJNbKj1aK6rM&tbnid=lcQ8sacYGyAUTM&vet=12ahUKEwiOiKzY84mPAxW7SmwGHfs9FiYQM3oECBkQAA..i&w=1200&h=1170&hcb=2&ved=2ahUKEwiOiKzY84mPAxW7SmwGHfs9FiYQM3oECBkQAA/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
