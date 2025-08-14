@@ -33,17 +33,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poovarasu&show_icons=true&theme=github_dark" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poovarasur&layout=compact&theme=github_dark" />
-  <br/>
-<!--   <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api?user=Poovarasu&theme=dark"  /> -->
-</p>
-
----
 
 ### 🏆 Languages I Use the Most
 
