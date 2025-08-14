@@ -9,10 +9,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently building a **Bookstore E-commerce Platform** with product listings, cart, and checkout  
-- 💼 I completed a full **Task Manager Application** (CRUD APIs using Node.js + Express + MongoDB)  
-- 📚 Currently mastering **JWT Authentication & MERN Stack**  
-- 🧠 Passionate about **solo building** profitable tools for developers & entrepreneurs  
+- 🔭 Currently building a **Bookstore E-commerce Platform** with product listings, cart, and checkout  
+- 💼 Completed a **Task Manager Application** (CRUD APIs using Node.js + Express + MongoDB)  
+- 📚 Learning **JWT Authentication** & expanding **MERN Stack** skills  
+- 🧠 Passionate about building **profitable tools** for developers & entrepreneurs  
 
 ---
 
@@ -33,8 +33,19 @@
 
 ---
 
+### 📈 GitHub Stats
 
-### 🏆 Languages I Use the Most
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Poovarasu&show_icons=true&theme=github_dark" alt="Poovarasu's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poovarasur&layout=compact&theme=github_dark" alt="Top languages" />
+  <br/>
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api?user=Poovarasu&theme=dark" alt="GitHub streak" />
+</p>
+
+---
+
+### 🏆 Most Used Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,7 +57,7 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/poovarasu-sivanandame-a0b922258" target="blank">
+  <a href="https://www.linkedin.com/in/poovarasu-sivanandame-a0b922258" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poovarasu-sivanandame" height="30" width="40" />
   </a>
 </p>
